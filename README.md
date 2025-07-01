@@ -2,6 +2,7 @@
 
 This is the backend server for the **Ask OU Chat** project – a university virtual assistant. The backend receives user messages from the frontend and forwards them to an LLM (LLaMA 3 via Ollama) for fallback responses when the local knowledge base doesn’t have an answer.
 
+![OU Chat UI](OU_Chatbot_UI.png)
 
 ##  Features
 
